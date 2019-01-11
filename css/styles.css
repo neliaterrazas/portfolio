@@ -12,6 +12,6 @@ body {
 img {
   float: right;
 }
-.panel-body {
-  color: #79FFCF;
+.container {
+  text-align: center;
 }
