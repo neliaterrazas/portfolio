@@ -1,6 +1,18 @@
 h1 {
-  color: #CC4D7C;
+  color: #B5446E;
+}
+h2 {
+  color: #B5446E;
 }
 body {
   background: #B7CCD1;
+  font-family: Lucida Console;
+}
+.column {
+  width: 400px;
+  float:center;
+}
+div {
+  column-count: 3;
+
 }
