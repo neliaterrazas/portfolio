@@ -1,5 +1,6 @@
-h1 {
+.jumbotron {
   color: #B5446E;
+  text-align: center;
 }
 h2 {
   color: #B5446E;
@@ -8,11 +9,9 @@ body {
   background: #B7CCD1;
   font-family: Lucida Console;
 }
-.column {
-  width: 400px;
-  float:center;
+img {
+  float: right;
 }
-div {
-  column-count: 3;
-
+.panel-body {
+  color: #79FFCF;
 }
