@@ -2,13 +2,17 @@
   color: #B5446E;
   text-align: center;
 }
+body {
+  background-color: #A3B6BA;
+  font-family: Lucida Console;
+}
+h1 {
+  color: #B5446E;
+}
 h2 {
   color: #B5446E;
 }
-body {
-  background: #B7CCD1;
-  font-family: Lucida Console;
-}
+
 img {
   float: right;
 }
