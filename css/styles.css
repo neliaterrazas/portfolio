@@ -1,6 +1,7 @@
 .jumbotron {
   color: #B5446E;
   text-align: center;
+  background: #DBF4FA;
 }
 body {
   background-color: #A3B6BA;
@@ -12,8 +13,7 @@ h1 {
 h2 {
   color: #B5446E;
 }
-
-img {
+.nelia {
   float: right;
 }
 .container {
@@ -21,4 +21,9 @@ img {
 }
 .home {
   text-align: center;
+}
+.kiki img {
+  width: 200px;
+  height: 175px;
+  align: top;
 }
