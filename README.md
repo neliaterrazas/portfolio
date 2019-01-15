@@ -10,7 +10,7 @@ _This is the beginning of my portfolio webpage! Eventually, this will become the
 
 ## Setup/Installation Requirements
 
-* _Check out my repository at https://github.com/neliaterrazas/portfolio_
+* _Check out my repository at hhttps://neliaterrazas.github.io/portfolio/
 * _Clone repository onto your device_
 * _Open code with a text editor or on your web broswer_
 * _Viola!_
